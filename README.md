@@ -5,4 +5,6 @@ the algorithm subject by using python
 
 2.PrintFromTopToBottom:从上到下打印二叉树，同一层的节点按照从左到右的顺序打印。
 
-3.VerifySquenceOfBST:给出一个序列，判断其是不是二叉搜索树的后序遍历：先遍历左子节点，再遍历右子节点，最后遍历根节点
+3.VerifySquenceOfBST:给出一个序列，判断其是不是二叉搜索树的后序遍历：先遍历左子节点，再遍历右子节点，最后遍历根节点。
+
+4.FindPathOfTree:输入一个二叉树和一个整数，打印出二叉树节点值和为输入整数的所有路径。必须是从根节点到叶节点。
