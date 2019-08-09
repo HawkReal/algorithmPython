@@ -15,3 +15,5 @@ the algorithm subject by using python
 
 7.wangyiSecondTitle:网易提前批笔试第二道题.png
 
+8.wangyiThirdTitle:网易提前批笔试第三道题.png
+
