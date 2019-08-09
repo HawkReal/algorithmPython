@@ -10,3 +10,5 @@ the algorithm subject by using python
 4.FindPathOfTree:输入一个二叉树和一个整数，打印出二叉树节点值和为输入整数的所有路径。必须是从根节点到叶节点。
 
 5.CloneComplexList:复制复杂的链表，该链表每个节点除了有值和下一个节点的指针，还有随机指针，其指向链表中任意的元素，也有可能为null。
+
+6.wangyiFirstTitle:网易提前批笔试第一道题.png
