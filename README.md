@@ -12,3 +12,6 @@ the algorithm subject by using python
 5.CloneComplexList:复制复杂的链表，该链表每个节点除了有值和下一个节点的指针，还有随机指针，其指向链表中任意的元素，也有可能为null。
 
 6.wangyiFirstTitle:网易提前批笔试第一道题.png
+
+7.wangyiSecondTitle:网易提前批笔试第二道题.png
+
