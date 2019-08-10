@@ -21,3 +21,5 @@ the algorithm subject by using python
 
 10.Permutation:输入一个字符串，将字符串的全排列按照字典顺序打出。
 
+11.MoreThanHalfNum:找出数组中数量超过一半的数字。
+
