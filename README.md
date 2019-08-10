@@ -19,3 +19,5 @@ the algorithm subject by using python
 
 9.ConvertTreeBiList:将二叉树转换成双向链表
 
+10.Permutation:输入一个字符串，将字符串的全排列按照字典顺序打出。
+
