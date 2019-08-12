@@ -31,3 +31,5 @@ the algorithm subject by using python
 
 15.GetUglyNumber:从小到大打印第N个丑数。
 
+16.FirstNotRepeatingChar:第一个只出现一次的字符。
+
