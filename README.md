@@ -25,3 +25,5 @@ the algorithm subject by using python
 
 12.FindGreatestSumOfSubArray:连续子数组的最大和
 
+13.NumOfBetween1AndN:1到n的整数中，1出现的次数。
+
