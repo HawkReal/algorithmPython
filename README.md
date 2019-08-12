@@ -29,3 +29,5 @@ the algorithm subject by using python
 
 14.PrintMinNumber:把数组排成最小的数。
 
+15.GetUglyNumber:从小到大打印第N个丑数。
+
