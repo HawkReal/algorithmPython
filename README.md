@@ -23,3 +23,5 @@ the algorithm subject by using python
 
 11.MoreThanHalfNum:找出数组中数量超过一半的数字。
 
+12.FindGreatestSumOfSubArray:连续子数组的最大和
+
