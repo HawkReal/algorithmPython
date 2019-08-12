@@ -27,3 +27,5 @@ the algorithm subject by using python
 
 13.NumOfBetween1AndN:1到n的整数中，1出现的次数。
 
+14.PrintMinNumber:把数组排成最小的数。
+
