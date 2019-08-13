@@ -36,3 +36,5 @@ the algorithm subject by using python
 17.FindFirstCommonNone：两个链表的公共节点。
 
 18.GetNumberOfK:数字在排序数组中出现的次数。
+
+19.TreeDepth：二叉树的深度。
