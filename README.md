@@ -33,3 +33,5 @@ the algorithm subject by using python
 
 16.FirstNotRepeatingChar:第一个只出现一次的字符。
 
+17.FindFirstCommonNone：两个链表的公共节点。
+
