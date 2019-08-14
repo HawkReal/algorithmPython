@@ -38,3 +38,5 @@ the algorithm subject by using python
 18.GetNumberOfK:数字在排序数组中出现的次数。
 
 19.TreeDepth：二叉树的深度。
+
+20.isBalanced_solution:判断是否为平衡二叉树。
