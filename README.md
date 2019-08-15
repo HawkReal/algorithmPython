@@ -44,3 +44,5 @@ the algorithm subject by using python
 21.FindContinuousSequence:和为S的连续正数序列。
 
 22.zuoyebang2:作业帮笔试第二题，字符串的dp矩阵。
+
+23.FindNumbersWithSum:和为S的两个数字。
