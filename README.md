@@ -40,3 +40,7 @@ the algorithm subject by using python
 19.TreeDepth：二叉树的深度。
 
 20.isBalanced_solution:判断是否为平衡二叉树。
+
+21.FindContinuousSequence:和为S的连续正数序列。
+
+22.zuoyebang2:作业帮笔试第二题，字符串的dp矩阵。
