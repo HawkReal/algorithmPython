@@ -48,3 +48,5 @@ the algorithm subject by using python
 23.FindNumbersWithSum:和为S的两个数字。
 
 24.LeftRotateString:左旋转字符串。
+
+25.ReverseSentence:翻转单词顺序列。
