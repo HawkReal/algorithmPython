@@ -46,3 +46,5 @@ the algorithm subject by using python
 22.zuoyebang2:作业帮笔试第二题，字符串的dp矩阵。
 
 23.FindNumbersWithSum:和为S的两个数字。
+
+24.LeftRotateString:左旋转字符串。
